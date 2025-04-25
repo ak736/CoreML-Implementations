@@ -1,4 +1,4 @@
-# ML-From-Scratch
+# Core ML Implementations
 
 A comprehensive collection of machine learning algorithms implemented from scratch. This repository contains pure implementations of fundamental ML techniques without relying on high-level libraries. Each implementation includes detailed documentation and examples to help understand the underlying concepts.
 
